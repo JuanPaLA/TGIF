@@ -1,0 +1,28 @@
+
+#footer{
+    background-color: bisque;
+    border: solid thin;
+    height: 4vh !important!;
+    margin-bottom: 1vw;
+}
+
+#footer p{
+    text-align: center;
+}
+
+#header{
+    /* height: 10vh; */
+  /* background-color: bisque; */
+    margin-top: 2vh;
+    background-image: url("https://beminuscula.com/ubiqum/tgif/LOGOTGIF.jpg"), url("emailicon2.png");
+    background-size: contain, contain;
+    background-position: left, right;
+    background-repeat: no-repeat, no-repeat;
+    margin-bottom: 2vh;
+}
+
+#logo{
+    background-image: url("logotgifhome.jpg");
+    background-size: contain, auto;
+    background-repeat: no-repeat, no-repeat;
+}

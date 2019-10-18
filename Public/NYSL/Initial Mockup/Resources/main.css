@@ -1,0 +1,46 @@
+.cuerpo{
+    display:flex;
+    flex-direction: row;
+    border:solid 1px;
+}
+.logo{
+    max-width: 5vw;
+    max-height: 12vh;
+    float:left;
+    margin: 8px 8px 8px 20px;
+    padding: 4px;
+    border: solid 1px;
+}
+.image3{
+    
+    max-width: 5vw;
+    max-height: 12vh;
+    margin: 8px 8px 8px 20px;
+    padding: 4px;
+    border: solid 1px;
+    float:left;
+}
+
+nav{
+    margin-left: 6.6em;
+    display: flex;
+    border:solid 1px;
+    align-items: flex-end;
+}
+.spaciedP{
+    margin-left: 50px;
+        }
+h1{
+    border:solid 1px;
+}
+
+*{
+    margin: 2px 2px 2px 2px;
+}
+
+dt{
+    margin-top: 10px;
+}
+dd{
+    margin-left: 1em;
+}
